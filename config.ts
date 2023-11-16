@@ -1,6 +1,6 @@
 import { type CalendarData } from './types';
 
-// Replace this array with your own events
+// Replace this data with your own
 export const data: CalendarData = {
   name: 'Festivos en Madrid',
   events: [
